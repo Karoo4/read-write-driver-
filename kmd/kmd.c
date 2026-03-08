@@ -12,7 +12,7 @@
 #include "kmd.h"
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("WzrterFX");
+MODULE_AUTHOR("Karoo");
 MODULE_DESCRIPTION("Kernel-mode memory read/write driver");
 
 static dev_t dev_num;
